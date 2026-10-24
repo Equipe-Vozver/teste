@@ -1,0 +1,15 @@
+body{
+    color: #7df6ff;
+    text-align: center;
+    background-color: rgb(255, 110, 0) /*gemini não decepciona;*/
+}
+
+button{
+    background-color: #7df6ff;
+    color: rgb(0, 0, 0);
+    padding: 15px 90px;
+    border: none;
+    border-radius: 12px;
+    font-size:30px;
+    margin-top: 140px;
+}
